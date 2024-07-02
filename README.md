@@ -22,3 +22,4 @@ yarn start
 ```
 
 ## Deploy on Vercel
+https://identifai-frontend-test.vercel.app/
